@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/a4c32439-e370-483d-8f5c-82ecfe5421d8" />
+<img src="https://github.com/user-attachments/assets/a4c32439-e370-483d-8f5c-82ecfe5421d8" width="150" height="150" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">👨‍💻 David Wilian</h1>
@@ -17,6 +17,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>
 </p>
 
 ---
@@ -46,6 +49,27 @@
 
 ---
 
+## 📂 Projetos Destacados
+
+<p align="center">
+- **GracyHub** – Contribuição no projeto, desenvolvimento de funcionalidades web e automação de processos.  
+- **WD Conecta by WD Cuidados** – Projeto próprio, sistemas de gestão e comunicação.  
+- **Outros projetos** – Futuras adições ao portfólio.
+</p>
+
+---
+
 ## 📫 Contato
 
-✉️ davidwilian71@gmail.com
+<p align="center">
+✉️ davidwilian71@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/david-wilian-66914b32a)  
+📸 [Instagram](https://www.instagram.com/david_wilian88)  
+🔗 [GitHub](https://github.com/daviddisel)
+</p>
+
+---
+
+<p align="center">
+📬 Se você procura um desenvolvedor em formação com projetos reais e experiência prática, entre em contato!
+</p>
