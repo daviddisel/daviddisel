@@ -1,6 +1,5 @@
 <p align="center">
-<img src="![image](https://github.com/user-attachments/assets/a4c32439-e370-483d-8f5c-82ecfe5421d8)
-" />
+<img src="https://github.com/user-attachments/assets/a4c32439-e370-483d-8f5c-82ecfe5421d8" />
 </p>
 
 <h1 align="center">👨‍💻 David Wilian</h1>
