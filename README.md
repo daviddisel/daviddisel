@@ -1,5 +1,5 @@
 <p align="center">
-<img src="COLE_AQUI_SUA_IMAGEM" />
+<img src="COLOCA_AQUI_O_LINK_DO_SEU_BANNER" />
 </p>
 
 <h1 align="center">👨‍💻 David Wilian</h1>
@@ -24,8 +24,8 @@
 ## 📊 Estatísticas
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=david.disel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david.disel&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=daviddisel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddisel&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -33,7 +33,7 @@
 ## 🔥 Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=david.disel&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=daviddisel&theme=tokyonight"/>
 </p>
 
 ---
@@ -41,7 +41,7 @@
 ## 👀 Visitas no perfil
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=david.disel&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=daviddisel&color=blue"/>
 </p>
 
 ---
