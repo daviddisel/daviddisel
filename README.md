@@ -1,32 +1,51 @@
-}
-# 👨‍💻 David Wilian
+<p align="center">
+<img src="COLE_AQUI_SUA_IMAGEM" />
+</p>
 
-🚀 Desenvolvedor em formação | Análise e Desenvolvimento de Sistemas (5º semestre)
+<h1 align="center">👨‍💻 David Wilian</h1>
 
-💡 Interessado em desenvolvimento backend, automação de processos e construção de soluções digitais que otimizem rotinas e apoiem decisões de negócio.
-
----
-
-## 💻 Tecnologias
-- Python 🐍  
-- C# ⚙️  
-- JavaScript 🌐  
-- HTML 📄  
-- CSS 🎨  
-- PHP 🔧  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+formação;ADS+5º+semestre;Apaixonado+por+Tecnologia;Em+busca+de+Estágio+🚀" />
+</p>
 
 ---
 
-## 🎯 Objetivo Profissional
-Busco uma oportunidade de estágio em desenvolvimento de software para aplicar conhecimentos em construção de APIs, lógica de programação e desenvolvimento web. Tenho interesse em participar de projetos reais, aprender boas práticas de engenharia de software e evoluir continuamente como desenvolvedor.
+## 🚀 Tecnologias
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60"/>
+</p>
 
 ---
 
-## 📂 Projetos
-Em constante evolução 🚀  
-Aqui você encontrará projetos acadêmicos e pessoais focados em desenvolvimento backend, integração de sistemas e aplicações web.
+## 📊 Estatísticas
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=david.disel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david.disel&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=david.disel&theme=tokyonight"/>
+</p>
+
+---
+
+## 👀 Visitas no perfil
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=david.disel&color=blue"/>
+</p>
 
 ---
 
 ## 📫 Contato
-📧 davidwilian71@gmail
+
+✉️ davidwilian71@gmail.com
