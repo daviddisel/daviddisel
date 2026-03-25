@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👨‍💻 David Wilian
 
-<!--
-**daviddisel/daviddisel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedor em formação | ADS - 5º semestre  
 
-Here are some ideas to get you started:
+💡 Apaixonado por tecnologia, automação e soluções digitais  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tecnologias
+- Python 🐍
+- C# ⚙️
+- JavaScript 🌐
+- HTML 📄
+- CSS 🎨
+- PHP 🔧
+
+---
+
+## 🎯 Objetivo
+Buscando oportunidade de estágio na área de tecnologia para desenvolver minhas habilidades e crescer profissionalmente.
+
+---
+
+## 📂 Projetos
+📌 Em construção... em breve novos projetos aqui 👇
+
+---
+
+## 📫 Contato
+📧 davidwilian71@gmail.com
